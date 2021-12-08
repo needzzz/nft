@@ -1,2 +1,2 @@
 # nft
-My first NFT!
+Hello World! Enjoy my first NFT!
